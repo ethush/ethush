@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working several projects on [Dirección General de Oaxaca](https://www.oaxaca.gob.mx/digepo)
 
-- 🌱 I’m currently learning **.NET (VB, C#), english**
+- 🌱 I’m currently learning **.NET (VB, C#), VBA for Office english**
 
 - 💬 Ask me about **PHP, Javascript, Mobile development, Data analysis & report, statistical data analysis, georeferencing data, data representation and graphing**
-
-- 📄 Know about my experiences on [https://www.linkedin.com/in/raziel-ventura-274a5a3b/](https://www.linkedin.com/in/raziel-ventura-274a5a3b/)
 
 - ⚡ Fun fact **Good code is easy to delete**
 
