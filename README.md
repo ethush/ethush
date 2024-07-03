@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raziel Ventura - @ethush</h1>
-<h3 align="center">FullStack Web Developer</h3>
+<h3 align="center">PHP Web Developer</h3>
 
-- 🔭 I’m currently working several projects on [Dirección General de Oaxaca](https://www.oaxaca.gob.mx/digepo)
 
 - 🌱 I’m currently learning **.NET (VB, C#), VBA for Office english**
 
