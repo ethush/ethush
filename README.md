@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raziel Ventura - @ethush</h1>
-<h3 align="center">PHP Web Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 
 - 🌱 I’m currently learning **.NET (VB, C#), VBA for Office english**
